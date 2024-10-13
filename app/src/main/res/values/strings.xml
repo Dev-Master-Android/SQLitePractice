@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLitePractice</string>
+    <string name="price">Цена</string>
+    <string name="weight">Вес</string>
+    <string name="name_product">Название продукта</string>
+    <string name="save">Сохранить</string>
+    <string name="are_you_sure">Вы действительно хотите удалить продукт?</string>
+    <string name="delete_change">Удаление/изменение продукта</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="change">Изменить</string>
+    <string name="name_pr">Название продукта</string>
+    <string name="weight_pr">Вес продукта</string>
+    <string name="price_pr">Цена</string>
+    <string name="update_pr">Обновить</string>
+    <string name="exit">ВЫХОД</string>
+</resources>
